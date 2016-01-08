@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         	= "BWHorizontalTableView"
-  s.version      	= "1.0.0"
-  s.summary      	= "BWHorizontalTableView is an efficient horizontal table view with same usage and interface as UITableView."
+  s.version      	= "1.0.1"
+  s.summary      	= "BWHorizontalTableView is an efficient horizontal table view based on Objective-c with same usage and interface as UITableView."
   s.homepage     	= "https://github.com/BurrowsWang/BWHorizontalTableView"
   s.license      	= { :type => 'MIT' }
   s.author       	= { "BurrowsWang" => "burrowswang@gmail.com" }
